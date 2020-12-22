@@ -1,0 +1,45 @@
+19-07-2019;21:22:17;Abigail;351;152004292;Más información
+19-07-2019;21:23:11;Abigail ramirez;351;2004292;Más información
+19-07-2019;21:55:15;Viviana Palavecino Cura;0385;156220817;Más información
+19-07-2019;21:56:02;Viviana Palavecino Cura;385;6220817;Más información
+20-07-2019;01:02:43;Natalia ferreyra;351;2218390;Más información
+20-07-2019;01:03:10;;;;vacío
+20-07-2019;02:07:11;Marianela Ojeda;351;3088405;Más información
+20-07-2019;02:07:29;;351;3088405;Más información
+20-07-2019;07:41:31;Cintia Argañaras;3525;547408;Más información
+20-07-2019;07:41:55;;;;Horarios
+20-07-2019;07:43:02;Cintia Argañaras;3525;547408;Más información
+20-07-2019;10:07:27;Cecilia zabala ;351;3512619909;Más información
+20-07-2019;10:07:54;Cecilia zabala ;351;2619909;Más información
+20-07-2019;14:36:22;Miriam F. Marcattini;351;4592166;Más información
+20-07-2019;15:15:45;Clarisa Marchesini;351;6083683;Horarios
+20-07-2019;15:41:18;Sandra;351;6654502;Más información
+20-07-2019;21:04:53;Mariela Bearzi;351;5956355;Más información
+20-07-2019;21:45:22;Belén Flores;351;6341626;Más información
+20-07-2019;22:35:37;Gabriela Cecilia Herencia ;0351;153900360;vacío
+21-07-2019;00:41:51;Griselda;351;8047141;Más información
+21-07-2019;08:53:07;Alejandra Aguirre ;351;6804151;Días
+21-07-2019;09:05:46;Ana dericia;351;6517520;Más información
+21-07-2019;10:12:14;Luciana;;8595640;Más información
+21-07-2019;12:58:56;Sandivares María Silvina ;0351;156837675;Más información
+21-07-2019;15:49:31;Carla Catalina Rodriguez;351;156104548;Más información
+21-07-2019;17:28:26;Cejas María José ;351;5400835;Más información
+21-07-2019;21:34:58;Pamela ;351;1437169;vacío
+21-07-2019;21:39:48;Ana Belén ;0351;155-602-864 ;Más información
+21-07-2019;21:50:09;;351;158097160;Más información
+21-07-2019;22:25:43;Camila Villanueva;0351;7910307;Más información
+22-07-2019;00:09:53;Natalia ;351;3313412;Más información
+22-07-2019;00:11:36;Natalia Neira ;351;3313412;Más información
+22-07-2019;00:15:11;Maria cecilia domunguez;5101;3517050210;Más información
+22-07-2019;01:36:22;Sabrina paz;54;3513406602;Más información
+22-07-2019;02:51:03;Angel Toranzo ;;155383556;Más información
+22-07-2019;10:00:13;Pamela Díaz;0351;5300237;Más información
+22-07-2019;10:28:24;Luciana mansilla;351;3513081977;Más información
+22-07-2019;10:34:11;Carolina Fa;;3512489870;Más información
+22-07-2019;10:34:48;Carolina Fa;5147;3512489870;Más información
+22-07-2019;10:53:49;Valentina Bruhn ;351;6153363;Más información
+22-07-2019;13:59:22;Celina Nair Di Monte ;351;3512363848;Más información
+22-07-2019;14:13:29;Roldán karen;351;5918030;Más información
+22-07-2019;14:14:34;Roldán karem;351;5918030;Más información
+22-07-2019;14:30:04;Christelle grasso;351;2811685;Más información
+22-07-2019;15:47:44;Rosso Carolina;351;2252107;Más información
